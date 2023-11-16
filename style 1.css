@@ -1,0 +1,59 @@
+
+html{
+    background-color: lightblue;
+}
+
+h2{
+font-family: 'Montserrat', sans-serif, italic;
+text-align: left;
+padding-right: 30px;
+padding-left: 30px;
+font-size:20;
+}
+
+h3{
+font-family: 'Edu TAS Beginner', cursive;
+text-align: left;
+padding-right: 30px;
+padding-left: 30px;
+font-size:20;
+}
+
+h4{
+font-family: 'Bebas Neue', sans-serif;
+text-align: left;
+padding-right: 30px;
+padding-left: 30px;
+font-size:20;
+}
+
+
+
+#rcorners3 {
+  border-radius: 50%;
+  background-position: left top;
+  background-repeat: repeat;
+  padding: 20px;
+  width: 200px;
+  height: 200px;
+}
+
+#button{
+	
+	border: black;
+	color: black;
+	padding: 25px 25px;
+	text-align: center;
+	margin-left:auto;
+	margin-right:auto;
+	display: block;
+	font-size: 16px;
+ 
+  cursor: pointer;
+
+}
+
+table, th, td {
+  border: 1px solid;
+}
+
